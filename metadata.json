@@ -1,0 +1,8 @@
+{
+  "name": "SMART Renewable Energy - Engineering & Diagnostics",
+  "description": "Platformă B2B pentru servicii de inginerie energetică, diagnosticare avansată și consultanță de bancabilitate în energie regenerabilă.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
